@@ -1,0 +1,2 @@
+=""""&LEFT(G314,SEARCH(CHAR(10),G314)-1)&""" is selected"
+=SUBSTITUTE(text, old_text, new_text, [instance_num])
